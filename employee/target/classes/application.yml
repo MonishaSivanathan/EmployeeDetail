@@ -1,0 +1,9 @@
+server:
+  port: 8080
+  address: 0.0.0.0
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/springboot
+    username: root
+    password: Ideas2it@monisha
+    driver-class-name: com.mysql.cj.jdbc.Driver
